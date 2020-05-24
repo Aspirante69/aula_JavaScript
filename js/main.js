@@ -75,7 +75,7 @@ console.log(validar);
 //var nome = "Eliel Vieira";
 //var n1 = 21;
 //var n2 = 10;
-//var frase = "Minha pica é o melhor time do mundo"
+//var frase = "Alemanha é o melhor time do mundo"
 //alert (nome + " tem " + idade +  " anos");
 //alert(idade + idade2)
 //console.log(nome);
