@@ -67,7 +67,7 @@ console.log(validar);
 //var lista = ["maça", "pêra", "laranja"];
 //lista.push("uva")
 //lista.pop()
-//onsole.log(lista)
+//console.log(lista)
 //console.log(lista.toString());
 //console.log(lista.join(" - "))
 
